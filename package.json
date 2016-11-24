@@ -1,0 +1,22 @@
+{
+  "name": "node-mongodb",
+  "version": "1.0.0",
+  "description": "using node.js with mongo - trying things out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junwin/node-mongodb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junwin/node-mongodb/issues"
+  },
+  "homepage": "https://github.com/junwin/node-mongodb#readme",
+  "dependencies": {
+    "mongodb": "^2.2.11"
+  }
+}
